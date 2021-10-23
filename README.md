@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 <a href='https://www.linkedin.com/in/erdogan-yesil-7b7263b3/'><img height="30" style="border-radius:50%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 <br>
 <br>
-https://github-readme-stats.vercel.app/api/top-langs/?username=erdodo&layout=compact&langs_count=10(https://github.com/erdodo)
-!(https://github-readme-stats.vercel.app/api?username=erdodo&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdodo&layout=compact&langs_count=10)](https://github.com/erdodo)
+![Erdoğan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdodo&show_icons=true&theme=dark)
