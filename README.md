@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there �<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 # [![erdodo_header](https://raw.githubusercontent.com/erdodo/erdodo/main/react-svg-component-library-1.gif)](https://google.com)
 Here are some ideas to get you started:
 
@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdodo&layout=compact&langs_count=10)](https://github.com/erdodo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdodo&layout=compact&langs_count=10)](https://github.com/erdodo)<br>
 ![Erdoğan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdodo&show_icons=true&theme=dark)
