@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/erdodo/github-readme-activity-graph"><img alt="Kaan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=erdodo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/erdodo/github-readme-activity-graph"><img alt="Erdoğan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=erdodo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
