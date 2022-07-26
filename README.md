@@ -29,6 +29,7 @@
 
 ## <img src="https://img.icons8.com/office/23/000000/database.png"/> Databases
    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" style="height:40px">
 
 <br>
 
