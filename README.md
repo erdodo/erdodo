@@ -10,9 +10,9 @@
 
 ## <img src="https://img.icons8.com/office/23/000000/code.png"/> Backend Languages
 <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/offices/40/000000/php-logo.png"/> </a>
-<img src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-4-1175201.png" style="width:40px">
-<img src="https://miro.medium.com/max/1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png" style="width:40px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" style="width:40px">
+<img src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-4-1175201.png" style="height:40px">
+<img src="https://miro.medium.com/max/1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png" style="height:40px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" style="height:40px">
 
 <br>
 
@@ -22,8 +22,8 @@
     <a><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
     <a><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     </a><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-    <a><img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" style="width:40px; margin-bottom:5px"></a>
-    <a><img src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" style="width:41px; margin-bottom:4px;"></a>
+    <a><img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" style="height:40px; margin-bottom:5px"></a>
+    <a><img src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" style="height:41px; margin-bottom:4px;"></a>
 
 <br>
 <br>
