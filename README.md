@@ -22,11 +22,16 @@
     <a><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
     <a><img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" style="height:40px; margin-bottom:5px" /></a>
     <a><img src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" style="height:41px; margin-bottom:4px;"></a>
-        <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" style="height:41px; margin-bottom:4px;"></a>
+        <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" style="height:39px; margin-bottom:4px;"></a>
 
-<hr>
-<a><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-    <a><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+<br>
+<br>
+
+## <img src="https://img.icons8.com/office/512/design.png"  style="height:20px"/> Design Languages
+<a><img src="https://img.icons8.com/color/48/000000/css3.png" style="height:40px"/></a>
+    <a><img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="height:40px"/></a>
+    <a><img src="https://avatars.githubusercontent.com/u/68583457?s=200&v=4" style="height:40px"/></a>
+
     
 <br>
 <br>
