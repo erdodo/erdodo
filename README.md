@@ -1,62 +1,23 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm Erdoğan, working as a full stack developer
 <br>
 
-# [![erdodo_header](https://raw.githubusercontent.com/erdodo/erdodo/main/react-svg-component-library-1.gif)](https://google.com)
 
-## 🖥 I am working on two projects right now
- - ### One of them is “CRM System” that i work a backend developer
- - ### Other one is "Accounting System" that i work as a front developer
-<br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erdogan-yesil-7b7263b3) 
 
-## <img src="https://img.icons8.com/office/23/000000/code.png"/> Backend Languages
-<a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/offices/40/000000/php-logo.png"/> </a>
-<img src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-4-1175201.png" style="height:40px">
-<img src="https://miro.medium.com/max/1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png" style="height:40px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" style="height:40px">
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=erdodo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=erdodo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=erdodo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+---
+[![](https://visitcount.itsvg.in/api?id=erdodo&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## <img src="https://img.icons8.com/office/23/000000/media-queries.png"/> Frontend Languages
-<a><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-    <a><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-    <a><img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" style="height:40px; margin-bottom:5px" /></a>
-    <a><img src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" style="height:41px; margin-bottom:4px;"></a>
-        <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" style="height:39px; margin-bottom:4px;"></a>
-
-<br>
-<br>
-
-## <img src="https://img.icons8.com/office/512/design.png"  style="height:20px"/> Design Languages
-<a><img src="https://img.icons8.com/color/48/000000/css3.png" style="height:40px"/></a>
-    <a><img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="height:40px"/></a>
-    <a><img src="https://avatars.githubusercontent.com/u/68583457?s=200&v=4" style="height:40px"/></a>
-
-    
-<br>
-<br>
-
-## <img src="https://img.icons8.com/office/23/000000/database.png"/> Databases
-   <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" style="height:40px">
-
-<br>
-
-## <img src="https://img.icons8.com/office/23/000000/share.png"/> Social Media
-<a href='https://twitter.com/ErdoganYesil0' style="padding:5px"><img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>
-<a href='https://www.linkedin.com/in/erdogan-yesil-7b7263b3/' style="padding:5px"> <img height="30" style="border-radius:50%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-<br>
-<br>
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/erdodo/github-readme-stats" style="width:55%"><img alt="Erdoğans's Github Stats" src="https://github-readme-stats.vercel.app/api?username=erdodo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/erdodo/github-readme-stats"  style="width:40%"><img alt="Erdoğans's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdodo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
