@@ -2,6 +2,8 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm Erdoğan, working as a full stack developer
 <br>
 
+- ⻚ My other github account (I'm a student there) [erdodo2](https://github.com/erdodo2)
+
 - 🔭 I’m currently working on [Accounting Program](ishesap.com)
 
 - 🌱 I’m currently learning **React**
