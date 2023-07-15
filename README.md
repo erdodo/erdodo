@@ -4,17 +4,8 @@
 
 - ⻚ My other github account (I'm a student there) [erdodo2](https://github.com/erdodo2)
 
-- 🔭 I’m currently working on [Accounting Program](ishesap.com)
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I am also working on the [no_code_backend as a backend developer.](https://github.com/erdodo/no_code_backend)
-
-- 👨‍💻 All of my projects are available at [erdoganyesil.com.tr](erdoganyesil.com.tr)
-
-- 💬 Ask me about **Vue and Javascript**
-
 - 📫 How to reach me **erdoganyesil3@gmail.com**
+  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
